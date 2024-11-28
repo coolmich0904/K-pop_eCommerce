@@ -1,6 +1,6 @@
 # K-pop Merchandise E-commerce Website
 
-This project is a WordPress-based e-commerce website developed to sell K-pop merchandise, including albums, lightsticks, and fan goods. The website uses WooCommerce for product management and secure transactions.
+This project is a WordPress-based e-commerce website developed to sell K-pop merchandise, including T-Shirts, Shoes, and fan goods. The website uses WooCommerce for product management and secure transactions.
 
 ## Features
 - 🛒 **E-commerce Platform**: Built with WordPress and WooCommerce.
@@ -11,10 +11,9 @@ This project is a WordPress-based e-commerce website developed to sell K-pop mer
 
 ## Technology Stack
 - **Frontend**: WordPress, WooCommerce
-- **Plugins Used**: WooCommerce, Elementor (optional)
-- **Hosting**: [Your Hosting Service] (e.g., Bluehost, AWS, etc.)
+- **Plugins Used**: WooCommerce
 
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kpop-shopping-mall.git
+   git clone https://github.com/coolmich0904/K-pop_eCommerce.git
