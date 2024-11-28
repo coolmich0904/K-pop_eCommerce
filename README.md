@@ -2,6 +2,8 @@
 
 This project is a WordPress-based e-commerce website developed to sell K-pop merchandise, including T-Shirts, Shoes, and fan goods. The website uses WooCommerce for product management and secure transactions.
 
+Video: https://youtu.be/BiM8PwqD8qs
+
 ## Features
 - 🛒 **E-commerce Platform**: Built with WordPress and WooCommerce.
 - 🎨 **Admin Panel**: Configured to manage products, categories, and track sales.
